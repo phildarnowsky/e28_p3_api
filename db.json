@@ -1,0 +1,7 @@
+{
+  "decks": [
+    { "id": 1, "name": "German vocabulary" },
+    { "id": 2, "name": "Chemical symbols" },
+    { "id": 3, "name": "State capitals" }
+  ]
+}
